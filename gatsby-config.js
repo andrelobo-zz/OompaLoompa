@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `E-commerce Snipcart and Gatsby Starter`,
-    author: `Issy Dennis`,
-    description: `A simple e-commerce shop using Gatsby and Snipcart.`,
+    title: `Oompa Loompa Confeitaria e Evento`,
+    author: `André Lobo`,
+    description: `Confeitaria e Eventos`,
     siteUrl: `https://gatsby-snipcart-starter.netlify.com/`,
   },
   plugins: [
@@ -46,8 +46,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Gatsby Snipcart Starter`,
-        short_name: `Gatsby Snipcart`,
+        name: `Oompa Loompa`,
+        short_name: `Confeitaria e Eventos`,
         start_url: `/`,
         background_color: `#ffffff`,
         theme_color: `thistle`,
